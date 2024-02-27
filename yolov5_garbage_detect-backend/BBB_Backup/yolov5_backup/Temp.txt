@@ -1,0 +1,7 @@
+[what is YOLOv5x6 ? · Issue #2796 · ultralytics/yolov5 (github.com)](https://github.com/ultralytics/yolov5/issues/2796)
+
+EfficientDet
+
+https://arxiv.org/abs/1911.09070
+
+https://github.com/ultralytics/yolov5/issues/36
